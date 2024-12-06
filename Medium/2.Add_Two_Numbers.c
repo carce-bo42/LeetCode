@@ -1,13 +1,5 @@
 /* https://leetcode.com/problems/add-two-numbers/description/ */
 
-/**
- * Definition for singly-linked list.
- * struct ListNode {
- *     int val;
- *     struct ListNode *next;
- * };
- */
-
 struct ListNode {
     int val;
     struct ListNode *next;
